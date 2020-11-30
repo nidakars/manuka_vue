@@ -2,12 +2,14 @@
     <div id= "app">
       <div class="container" >
          <DropdownMenu></DropdownMenu>
+         <div><Liste></Liste>
+           <LeftMenu></LeftMenu>
+           
+         <ProductButton></ProductButton>
+         </div>
       </div>
-      <div><h2>giyim</h2></div>
-
-      <!-- <div>
-          <leftMenu></leftMenu>
-      </div> -->
+      
+      
       
 
     </div>
@@ -15,32 +17,22 @@
 <script>
 
 import DropdownMenu from '@/components/mainMenu.vue';
-//import LeftMenu from "@/components/leftMenu.vue";
+import LeftMenu from "@/components/leftMenu.vue";
+import ProductButton from "@/components/ProductButtons/ProductButton.vue"
+import Liste from "@/components/list.vue";
 
 export default {
   name: "app",
   components: {
     DropdownMenu,
-    //LeftMenu
+    LeftMenu,
+    ProductButton,
+    Liste
   
   }
 };
 </script>
 
 <style scoped>
-.class{
-  
-  padding: 10px;
-}
-#app2 {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
 
-.container{
-  position: relative;
-}
 </style>
