@@ -2,31 +2,29 @@
     <div id= "app">
       <div class="container" >
          <DropdownMenu></DropdownMenu>
-         <slider></slider>
-        
       </div>
-     
+      <div><h2>giyim</h2></div>
+
+      <!-- <div>
+          <leftMenu></leftMenu>
+      </div> -->
       
+
     </div>
 </template>
 <script>
 
 import DropdownMenu from '@/components/mainMenu.vue';
-import slider from "@/components/slider.vue";
-
+//import LeftMenu from "@/components/leftMenu.vue";
 
 export default {
   name: "app",
   components: {
-    DropdownMenu, 
-    slider
+    DropdownMenu,
+    //LeftMenu
   
   }
 };
-
-
-
-
 </script>
 
 <style scoped>
@@ -35,7 +33,6 @@ export default {
   padding: 10px;
 }
 #app2 {
-  padding-top: 70px;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
