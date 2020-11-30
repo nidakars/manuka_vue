@@ -2,26 +2,22 @@
     <div id= "app">
       <div class="container" >
          <DropdownMenu></DropdownMenu>
+         <LeftMenu></LeftMenu>
       </div>
       <div><h2>çorap</h2></div>
-
-      <!-- <div>
-          <leftMenu></leftMenu>
-      </div> -->
-      
 
     </div>
 </template>
 <script>
 
 import DropdownMenu from '@/components/mainMenu.vue';
-//import LeftMenu from "@/components/leftMenu.vue";
+import LeftMenu from "@/components/leftMenu.vue";
 
 export default {
   name: "app",
   components: {
     DropdownMenu,
-    //LeftMenu
+    LeftMenu
   
   }
 };

@@ -14,7 +14,7 @@
                       class="fl"
                     >
                       <a
-                        href="https://www.manuka.com.tr/"
+                        href="/home"
                         title="Anasayfa"
                         class="fl navHome"
                         itemprop="url"
@@ -28,8 +28,8 @@
                       class="fl"
                     >
                       <a
-                        href="https://www.manuka.com.tr/giyim-316"
-                        title="giyim-316"
+                        href="/giyim"
+                        title="giyim"
                         itemprop="url"
                         class="fl"
                       >
@@ -2495,5 +2495,13 @@
 <style scoped>
 .col-12 {
     width: 100%;
+}
+#navigasyon li:after
+{
+content: "";
+background: url('/Data/EditorFiles/tema/img/nav-ok.png') no-repeat right center
+;float: left;
+width: 6px
+;height: 13px;
 }
 </style>

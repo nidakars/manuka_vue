@@ -2,7 +2,7 @@
     <div id= "app">
       <div class="container" >
          <DropdownMenu></DropdownMenu>
-         <leftMenu></leftMenu>
+         <LeftMenu></LeftMenu>
       </div>
       <div><h2>ayakkabı</h2></div>
     </div>

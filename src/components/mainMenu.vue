@@ -134,17 +134,17 @@
           <ul class="fl col-12 menu flexwrap">
             <li class="fl">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/indirim">İndirim</a></span
+                ><a class="fl" lang="tr" href="/#/indirim">İndirim</a></span
               >
             </li>
             <li class="fl">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/yeni-232">Yeni</a></span
+                ><a class="fl" lang="tr" href="/#/yeni">Yeni</a></span
               >
             </li>
             <li class="fl drop-down hover parentLink">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/giyim-316">Giyim</a></span
+                ><a class="fl" lang="tr" href="/#/giyim">Giyim</a></span
               >
               <div
                 class="pos-a pos-top pos-left pos-right box p-left whiteBg box-border b-top subMenu top"
@@ -291,7 +291,7 @@
             </li>
             <li class="fl drop-down hover parentLink">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/canta-317">Çanta</a></span
+                ><a class="fl" lang="tr" href="/#/canta">Çanta</a></span
               >
               <div
                 class="pos-a pos-top pos-left pos-right box p-left whiteBg box-border b-top subMenu top"
@@ -333,7 +333,7 @@
             </li>
             <li class="fl drop-down hover parentLink">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/aksesuar-235">Aksesuar</a></span
+                ><a class="fl" lang="tr" href="/#/aksesuar">Aksesuar</a></span
               >
               <div
                 class="pos-a pos-top pos-left pos-right box p-left whiteBg box-border b-top subMenu top"
@@ -373,7 +373,7 @@
             </li>
             <li class="fl drop-down hover parentLink">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/ayakkabi-318">Ayakkabı</a></span
+                ><a class="fl" lang="tr" href="/#/ayakkabi">Ayakkabı</a></span
               >
               <div
                 class="pos-a pos-top pos-left pos-right box p-left whiteBg box-border b-top subMenu top"
@@ -422,7 +422,7 @@
 -->
             <li class="fl drop-down hover parentLink">
               <span class="fl d-flex drop-down-title"
-                ><a class="fl" lang="tr" href="/corap-319">Çorap</a></span
+                ><a class="fl" lang="tr" href="/#/corap">Çorap</a></span
               >
               <div
                 class="pos-a pos-top pos-left pos-right box p-left whiteBg box-border b-top subMenu top"
