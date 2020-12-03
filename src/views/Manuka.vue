@@ -5,7 +5,7 @@
          <div><Liste></Liste>
            
            <Product></Product>
-         
+         <BenzerUrunler></BenzerUrunler>
          </div>
       </div>
       
@@ -19,13 +19,15 @@
 import DropdownMenu from '@/components/mainMenu.vue';
 import Liste from "@/components/list.vue";
 import Product from "@/components/product.vue"
+import BenzerUrunler from "@/components/benzer_urunler.vue"
 
 export default {
   name: "app",
   components: {
     DropdownMenu,
     Liste,
-    Product
+    Product,
+    BenzerUrunler
   
   }
 };

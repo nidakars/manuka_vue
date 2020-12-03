@@ -63,15 +63,15 @@
                     >
                       <div class="filter-wrap">
                         <ul class="fl col-12 catMenu" id="filterCats">
-                          <li class="fl col-12 parent">
+                          <li  class="fl col-12 parent">
                             <div class="TumKatBox">
-                              <div
+                              <div @click="kategoriler = !kategoriler"
                                 class="col col-12 text-custom-gray text-semibold col-title filter-title"
                               >
                                 KATEGORİLER
                               </div>
                               <div class="fl col-12 fValuesBox fCatBox">
-                                <ul class="box col-12">
+                                <ul  v-if="kategoriler" class="box col-12">
                                   <li class="fl col-12">
                                     <a
                                       class="fl col-12 text-description lma"
@@ -131,7 +131,7 @@
                                   <li class="fl col-12">
                                     <a
                                       class="fl col-12 text-description lma"
-                                      href="/triko-325"
+                                      href="/#/triko"
                                       data-after="»"
                                       >Triko</a
                                     >
@@ -2491,6 +2491,23 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  name: "Lmenu",
+  components: {},
+  data() {
+    return {
+      kategoriler: false,
+      canta: false,
+      aksesuar: false,
+      ayakkabi: false,
+      kilif: false,
+      corap: false,
+    };
+  },
+};
+</script>
 
 <style scoped>
 .col-12 {
