@@ -15,7 +15,7 @@
                       class="fl"
                     >
                       <a
-                        href="/home"
+                        href="https://www.manuka.com.tr/"
                         title="Anasayfa"
                         class="fl navHome"
                         itemprop="url"
@@ -28,7 +28,12 @@
                       itemtype="http://data-vocabulary.org/Breadcrumb"
                       class="fl"
                     >
-                      <a href="/giyim" title="giyim" itemprop="url" class="fl">
+                      <a
+                        href="https://www.manuka.com.tr/giyim-316"
+                        title="giyim-316"
+                        itemprop="url"
+                        class="fl"
+                      >
                         <span itemprop="title">Giyim</span>
                       </a>
                     </li>
@@ -59,33 +64,242 @@
                     >
                       <div class="filter-wrap">
                         <ul class="fl col-12 catMenu" id="filterCats">
-                          <li class="fl col-12 parent"></li>
+                          <li class="fl col-12 parent">
+                            <div class="TumKatBox">
+                              <div
+                                class="col col-12 text-custom-gray text-semibold col-title filter-title"
+                              >
+                                KATEGORİLER
+                              </div>
+                              <div class="fl col-12 fValuesBox fCatBox">
+                                <ul class="box col-12">
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/kaban-333"
+                                      data-after="»"
+                                      >Kaban</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/mont-334"
+                                      data-after="»"
+                                      >Mont</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/yagmurluk-327"
+                                      data-after="»"
+                                      >Yağmurluk</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/yelek"
+                                      data-after="»"
+                                      >Yelek</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/trenchkot"
+                                      data-after="»"
+                                      >Trençkot</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/denim"
+                                      data-after="»"
+                                      >Denim</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/ceket-339"
+                                      data-after="»"
+                                      >Ceket</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/triko-325"
+                                      data-after="»"
+                                      >Triko</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/hirka-332"
+                                      data-after="»"
+                                      >Hırka</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/kazak-323"
+                                      data-after="»"
+                                      >Kazak</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/suveter"
+                                      data-after="»"
+                                      >Süveter</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/sweatshirt-338"
+                                      data-after="»"
+                                      >Sweatshirt</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/gomlek-329"
+                                      data-after="»"
+                                      >Gömlek</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/tunik"
+                                      data-after="»"
+                                      >Tunik</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/basic-328"
+                                      data-after="»"
+                                      >Basic</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/kimono"
+                                      data-after="»"
+                                      >Kimono</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/t-shirt-324"
+                                      data-after="»"
+                                      >T-Shirt</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/elbise-322"
+                                      data-after="»"
+                                      >Elbise</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/salopet"
+                                      data-after="»"
+                                      >Salopet</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/jean-336"
+                                      data-after="»"
+                                      >Jean</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/pantolon-335"
+                                      data-after="»"
+                                      >Pantolon</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/etek-337"
+                                      data-after="»"
+                                      >Etek</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/sweatshirt-takim"
+                                      data-after="»"
+                                      >Sweatshirt Takım</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/esofman-takim"
+                                      data-after="»"
+                                      >Eşofman Takım</a
+                                    >
+                                  </li>
+                                  <li class="fl col-12">
+                                    <a
+                                      class="fl col-12 text-description lma"
+                                      href="/takim-331"
+                                      data-after="»"
+                                      >Takım</a
+                                    >
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </li>
                         </ul>
                       </div>
 
                       <div class="filter-wrap">
                         <div class="fl col-12">
                           <div
-                            class="col col-12 text-custom-gray text-semibold col-title filter-title hidden"
+                            class="col col-12 text-custom-gray text-semibold col-title filter-title"
                           >
                             Renk
                           </div>
-                          <div
-                            class="box col-12 fValuesBox "
-                            style="display: none;"
-                          >
+                          <div class="box col-12 fValuesBox">
                             <div class="fl col-12 fVariantBox FilterScroll">
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_171"
+                                  for="type1_325"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="171"
+                                  data-filter-id="325"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_171"
-                                    value="171"
+                                    id="type1_325"
+                                    value="325"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -98,21 +312,21 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  CAMEL
+                                  AÇIK HAKİ
                                   <!--(1)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_247"
+                                  for="type1_203"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="247"
+                                  data-filter-id="203"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_247"
-                                    value="247"
+                                    id="type1_203"
+                                    value="203"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -125,21 +339,21 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  LAVANTA
+                                  HARDAL-BEYAZ
                                   <!--(1)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_176"
+                                  for="type1_278"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="176"
+                                  data-filter-id="278"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_176"
-                                    value="176"
+                                    id="type1_278"
+                                    value="278"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -152,224 +366,8 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  LİLA
+                                  KAHVERENGİ
                                   <!--(2)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_186"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="186"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_186"
-                                    value="186"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  MAVİ
-                                  <!--(1)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_188"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="188"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_188"
-                                    value="188"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  BEJ
-                                  <!--(10)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_159"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="159"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_159"
-                                    value="159"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  EKRU
-                                  <!--(2)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_273"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="273"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_273"
-                                    value="273"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  GÜLPEMBE
-                                  <!--(1)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_163"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="163"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_163"
-                                    value="163"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  İNDİGO
-                                  <!--(1)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_197"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="197"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_197"
-                                    value="197"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  SÜTLÜ KAHVE
-                                  <!--(2)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_292"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="292"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_292"
-                                    value="292"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  SİYAH-KAHVE
-                                  <!--(1)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_240"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="240"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_240"
-                                    value="240"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  SOMON
-                                  <!--(1)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -401,15 +399,15 @@
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_183"
+                                  for="type1_184"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="183"
+                                  data-filter-id="184"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_183"
-                                    value="183"
+                                    id="type1_184"
+                                    value="184"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -422,35 +420,8 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  ŞEFTALİ
+                                  BAKIR
                                   <!--(3)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_158"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="158"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_158"
-                                    value="158"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  SİYAH
-                                  <!--(9)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -477,6 +448,330 @@
                                     ></i>
                                   </span>
                                   GRİ
+                                  <!--(8)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_171"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="171"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_171"
+                                    value="171"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  CAMEL
+                                  <!--(17)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_258"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="258"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_258"
+                                    value="258"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  VİZON BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_193"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="193"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_193"
+                                    value="193"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  MİNT
+                                  <!--(29)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_235"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="235"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_235"
+                                    value="235"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BİSKÜVİ
+                                  <!--(2)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_158"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="158"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_158"
+                                    value="158"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SİYAH
+                                  <!--(74)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_160"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="160"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_160"
+                                    value="160"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KİREMİT
+                                  <!--(11)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_159"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="159"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_159"
+                                    value="159"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  EKRU
+                                  <!--(16)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_326"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="326"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_326"
+                                    value="326"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KUM BEJİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_188"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="188"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_188"
+                                    value="188"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BEJ
+                                  <!--(33)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_194"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="194"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_194"
+                                    value="194"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  VİZON
+                                  <!--(3)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_169"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="169"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_169"
+                                    value="169"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  AÇIK MAVİ
+                                  <!--(7)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_240"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="240"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_240"
+                                    value="240"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SOMON
                                   <!--(1)-->
                                 </label>
                               </div>
@@ -504,20 +799,20 @@
                                     ></i>
                                   </span>
                                   KOYU MAVİ
-                                  <!--(3)-->
+                                  <!--(12)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_193"
+                                  for="type1_233"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="193"
+                                  data-filter-id="233"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_193"
-                                    value="193"
+                                    id="type1_233"
+                                    value="233"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -530,48 +825,21 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  MİNT
-                                  <!--(7)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_305"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="305"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_305"
-                                    value="305"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  KÖRİ
+                                  OKYANUS
                                   <!--(1)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_169"
+                                  for="type1_172"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="169"
+                                  data-filter-id="172"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_169"
-                                    value="169"
+                                    id="type1_172"
+                                    value="172"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -584,21 +852,21 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  AÇIK MAVİ
-                                  <!--(3)-->
+                                  BEYAZ
+                                  <!--(6)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_308"
+                                  for="type1_273"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="308"
+                                  data-filter-id="273"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_308"
-                                    value="308"
+                                    id="type1_273"
+                                    value="273"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -611,48 +879,21 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  PASTEL MAVİ
-                                  <!--(1)-->
-                                </label>
-                              </div>
-                              <div class="fl col-12 mb">
-                                <label
-                                  for="type1_226"
-                                  class="fl col-12 col-text form-item myType1"
-                                  data-type=""
-                                  data-filter-id="226"
-                                >
-                                  <input
-                                    type="checkbox"
-                                    id="type1_226"
-                                    value="226"
-                                  />
-
-                                  <span class="fl icon-wrapper">
-                                    <i
-                                      class="fl icon-square-unchecked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                    <i
-                                      class="fl icon-square-checked icon-small"
-                                      style="background-color:;"
-                                    ></i>
-                                  </span>
-                                  SARI
+                                  GÜLPEMBE
                                   <!--(2)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_298"
+                                  for="type1_174"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="298"
+                                  data-filter-id="174"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_298"
-                                    value="298"
+                                    id="type1_174"
+                                    value="174"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -665,21 +906,48 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  KOYU GRİ
+                                  HAKİ
+                                  <!--(17)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_292"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="292"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_292"
+                                    value="292"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SİYAH-KAHVE
                                   <!--(1)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
                                 <label
-                                  for="type1_224"
+                                  for="type1_178"
                                   class="fl col-12 col-text form-item myType1"
                                   data-type=""
-                                  data-filter-id="224"
+                                  data-filter-id="178"
                                 >
                                   <input
                                     type="checkbox"
-                                    id="type1_224"
-                                    value="224"
+                                    id="type1_178"
+                                    value="178"
                                   />
 
                                   <span class="fl icon-wrapper">
@@ -692,7 +960,142 @@
                                       style="background-color:;"
                                     ></i>
                                   </span>
-                                  PUDRA
+                                  HARDAL
+                                  <!--(5)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_324"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="324"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_324"
+                                    value="324"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BUZ GRİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_181"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="181"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_181"
+                                    value="181"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  YEŞİL
+                                  <!--(6)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_315"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="315"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_315"
+                                    value="315"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  HAKİ-BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_182"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="182"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_182"
+                                    value="182"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  TAŞ
+                                  <!--(4)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_322"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="322"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_322"
+                                    value="322"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  NİL YEŞİLİ
                                   <!--(1)-->
                                 </label>
                               </div>
@@ -720,7 +1123,925 @@
                                     ></i>
                                   </span>
                                   KAHVE
+                                  <!--(19)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_175"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="175"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_175"
+                                    value="175"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  ÇAĞLA
                                   <!--(4)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_189"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="189"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_189"
+                                    value="189"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BORDO
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_205"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="205"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_205"
+                                    value="205"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SİYAH-BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_163"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="163"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_163"
+                                    value="163"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  İNDİGO
+                                  <!--(4)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_259"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="259"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_259"
+                                    value="259"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  MULTİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_212"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="212"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_212"
+                                    value="212"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  CAMEL-BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_264"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="264"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_264"
+                                    value="264"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  PASTEL
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_243"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="243"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_243"
+                                    value="243"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  EKOSE
+                                  <!--(3)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_197"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="197"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_197"
+                                    value="197"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SÜTLÜ KAHVE
+                                  <!--(6)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_177"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="177"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_177"
+                                    value="177"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  GÜL KURUSU
+                                  <!--(4)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_265"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="265"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_265"
+                                    value="265"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BOTANİK
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_186"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="186"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_186"
+                                    value="186"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  MAVİ
+                                  <!--(11)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_210"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="210"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_210"
+                                    value="210"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  ANTRASİT
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_220"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="220"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_220"
+                                    value="220"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  LACİVERT
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_274"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="274"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_274"
+                                    value="274"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  LEYLAK
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_226"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="226"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_226"
+                                    value="226"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SARI
+                                  <!--(9)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_288"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="288"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_288"
+                                    value="288"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KİREMİT-HARDAL
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_183"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="183"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_183"
+                                    value="183"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  ŞEFTALİ
+                                  <!--(10)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_291"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="291"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_291"
+                                    value="291"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  ORTA MAVİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_180"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="180"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_180"
+                                    value="180"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  TURUNCU
+                                  <!--(4)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_294"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="294"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_294"
+                                    value="294"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KİREMİT-YEŞİL
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_232"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="232"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_232"
+                                    value="232"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  OFF WHITE
+                                  <!--(33)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_313"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="313"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_313"
+                                    value="313"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BEJ-CAMEL
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_224"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="224"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_224"
+                                    value="224"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  PUDRA
+                                  <!--(7)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_314"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="314"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_314"
+                                    value="314"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KİREMİT-BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_238"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="238"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_238"
+                                    value="238"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  GÜMÜŞ
+                                  <!--(2)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_316"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="316"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_316"
+                                    value="316"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  KAHVE-BEYAZ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_256"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="256"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_256"
+                                    value="256"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  TATLI SARI
+                                  <!--(2)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_199"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="199"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_199"
+                                    value="199"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  BEYAZ-SİYAH
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_254"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="254"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_254"
+                                    value="254"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  LİLA-OFFWHITE
+                                  <!--(2)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_289"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="289"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_289"
+                                    value="289"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  SU YEŞİLİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_261"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="261"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_261"
+                                    value="261"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  PÖTİKARE MAVİ
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_327"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="327"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_327"
+                                    value="327"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  MİNT-OFF WHİTE
+                                  <!--(1)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type1_176"
+                                  class="fl col-12 col-text form-item myType1"
+                                  data-type=""
+                                  data-filter-id="176"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type1_176"
+                                    value="176"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                      style="background-color:;"
+                                    ></i>
+                                  </span>
+                                  LİLA
+                                  <!--(15)-->
                                 </label>
                               </div>
                             </div>
@@ -763,7 +2084,7 @@
                                     ></i>
                                   </span>
                                   1
-                                  <!--(27)-->
+                                  <!--(259)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -788,7 +2109,32 @@
                                     ></i>
                                   </span>
                                   2
-                                  <!--(27)-->
+                                  <!--(259)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type2_155"
+                                  class="fl col-12 col-text form-item myType2"
+                                  data-type=""
+                                  data-filter-id="155"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type2_155"
+                                    value="155"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                    ></i>
+                                  </span>
+                                  34
+                                  <!--(5)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -813,7 +2159,7 @@
                                     ></i>
                                   </span>
                                   36
-                                  <!--(3)-->
+                                  <!--(70)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -838,7 +2184,7 @@
                                     ></i>
                                   </span>
                                   38
-                                  <!--(3)-->
+                                  <!--(70)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -863,7 +2209,7 @@
                                     ></i>
                                   </span>
                                   40
-                                  <!--(3)-->
+                                  <!--(70)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -888,7 +2234,7 @@
                                     ></i>
                                   </span>
                                   42
-                                  <!--(3)-->
+                                  <!--(52)-->
                                 </label>
                               </div>
                               <div class="fl col-12 mb">
@@ -913,7 +2259,32 @@
                                     ></i>
                                   </span>
                                   STD
-                                  <!--(30)-->
+                                  <!--(95)-->
+                                </label>
+                              </div>
+                              <div class="fl col-12 mb">
+                                <label
+                                  for="type2_157"
+                                  class="fl col-12 col-text form-item myType2"
+                                  data-type=""
+                                  data-filter-id="157"
+                                >
+                                  <input
+                                    type="checkbox"
+                                    id="type2_157"
+                                    value="157"
+                                  />
+
+                                  <span class="fl icon-wrapper">
+                                    <i
+                                      class="fl icon-square-unchecked icon-small"
+                                    ></i>
+                                    <i
+                                      class="fl icon-square-checked icon-small"
+                                    ></i>
+                                  </span>
+                                  44
+                                  <!--(4)-->
                                 </label>
                               </div>
                             </div>
@@ -945,8 +2316,8 @@
                                       type="text"
                                       id="minMobilePrice"
                                       name="minMobilePrice"
-                                      data-min-value="9"
-                                      value="9"
+                                      data-min-value="39"
+                                      value="39"
                                       class="col col-12 withPlace"
                                     />
                                   </div>
@@ -994,8 +2365,8 @@
                                 </div>
                               </div>
                               <div class="priceWrap text-center">
-                                <span id="min-price" class="fl" data-min="9"
-                                  >9 TL</span
+                                <span id="min-price" class="fl" data-min="39"
+                                  >39 TL</span
                                 >
                                 <span id="max-price" class="fr" data-max="350"
                                   >350 TL</span
@@ -1064,33 +2435,4 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: "Lmenu",
-  components: {},
-  data() {
-    return {
-      kategoriler: false,
-      renk: false,
-      beden: false,
-      fiyat: false,
-      kilif: false,
-      corap: false,
-    };
-  },
-};
-</script>
-
-<style scoped>
-.col-12 {
-  width: 100%;
-}
-#navigasyon li:after {
-  content: "";
-  background: url("/Data/EditorFiles/tema/img/nav-ok.png") no-repeat right
-    center;
-  float: left;
-  width: 6px;
-  height: 13px;
-}
-</style>
+<style scoped></style>

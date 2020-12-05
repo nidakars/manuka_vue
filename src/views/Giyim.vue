@@ -1,14 +1,9 @@
 <template>
   <div id="app">
     <DropdownMenu></DropdownMenu>
-    <aside>
-      <LeftMenu></LeftMenu>
-    </aside>
-    <aside>
-      <Liste></Liste>
-      <ProductButton> </ProductButton>
-    </aside>
-    <div class="right"></div>
+    <Liste></Liste>
+    <LeftMenu></LeftMenu>
+    <ProductButton> </ProductButton>
   </div>
 </template>
 <script>

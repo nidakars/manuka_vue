@@ -2917,7 +2917,7 @@ border-radius:  3px;
     height: 30px;
     text-align: center;
     cursor: pointer;
-   /*  background-image: url('arrow.png'); */
+    /*  background-image: url('arrow.png'); */
     background-repeat: no-repeat;
     line-height: 600%;
     overflow: hidden;
@@ -3088,7 +3088,7 @@ a.showAdmin {
 .navIcon {
     width: 20px;
     height: 20px;
-   /*  background: url('navIcon.png') no-repeat center center; */
+    /*  background: url('navIcon.png') no-repeat center center; */
 }
 
 [dir="rtl"] #navigasyon li {
@@ -3107,7 +3107,7 @@ a.showAdmin {
 
 #navigasyon li:after {
     content: "";
-    /* background: url(/Data/EditorFiles/tema/img/nav-ok.png) no-repeat right center; */
+    background: url(/src/assets/nav-ok.png) no-repeat right center;
     float: left;
     width: 6px;
     height: 13px;
@@ -3839,7 +3839,7 @@ button {
 }
 
 .icon-attach {
-   /*  background-image: url('icons/attach.png'); */
+    /*  background-image: url('icons/attach.png'); */
 }
 
 .icon-code {
@@ -3851,7 +3851,7 @@ button {
 }
 
 .icon-passConfirm {
-   /*  background-image: url('icons/passConfirm.png'); */
+    /*  background-image: url('icons/passConfirm.png'); */
 }
 
 .icon-company {
@@ -3859,11 +3859,11 @@ button {
 }
 
 .icon-taxOffice {
-   /*  background-image: url('icons/taxOffice.png'); */
+    /*  background-image: url('icons/taxOffice.png'); */
 }
 
 .icon-taxId {
-   /*  background-image: url('icons/taxId.png'); */
+    /*  background-image: url('icons/taxId.png'); */
 }
 
 .icon-author {
@@ -3887,7 +3887,7 @@ button {
 }
 
 .icon-mobilePhone {
-   /*  background-image: url('icons/mobilePhone.png'); */
+    /*  background-image: url('icons/mobilePhone.png'); */
 }
 
 .icon-homePhone {
@@ -3907,11 +3907,11 @@ button {
 }
 
 .icon-map {
-   /*  background-image: url('icons/map.png'); */
+    /*  background-image: url('icons/map.png'); */
 }
 
 .icon-zipCode {
-   /*  background-image: url('icons/zipCode.png'); */
+    /*  background-image: url('icons/zipCode.png'); */
 }
 
 .icon-fb {
@@ -3942,7 +3942,7 @@ button {
     height: 11px;
     margin-top: -5px;
     margin-left: -8px;
-   /*  background-image: url("/theme/standart/images/blok/flags.png"); */
+    /*  background-image: url("/theme/standart/images/blok/flags.png"); */
     background-repeat: no-repeat;
 }
 
@@ -4368,7 +4368,7 @@ button {
 }
 
 .form-control:hover .input-wrap.radio {
-   /*  background: url('radioHover.png') no-repeat center center; */
+    /*  background: url('radioHover.png') no-repeat center center; */
 }
 
 .input-wrap.radio.active,
@@ -4378,17 +4378,17 @@ button {
 }
 
 .input-wrap.checkbox {
-   /*  background: url('checkbox.png') no-repeat center center; */
+    /*  background: url('checkbox.png') no-repeat center center; */
 }
 
 .form-control:hover .input-wrap.checkbox {
-   /*  background: url('checkboxHover.png') no-repeat center center; */
+    /*  background: url('checkboxHover.png') no-repeat center center; */
 }
 
 .input-wrap.checkbox.active,
 .form-control:hover .input-wrap.checkbox.active,
 .active>.form-control .input-wrap.checkbox {
-   /*  background: url('checkboxActive.png') no-repeat center center; */
+    /*  background: url('checkboxActive.png') no-repeat center center; */
 }
 
 .input-wrap input {
@@ -4461,7 +4461,7 @@ button {
 
 .hasDatepicker {
     padding-right: 26px;
-   /*  background: url('calendarIcon.png') no-repeat right center; */
+    /*  background: url('calendarIcon.png') no-repeat right center; */
 }
 
 
@@ -13784,7 +13784,7 @@ display:      block;
     text-indent: -9999em;
     padding: 0;
     background-color: transparent;
-   /*  background: url('/Data/EditorFiles/tema/img/arrows-2.png') !important; */
+    /*  background: url('/Data/EditorFiles/tema/img/arrows-2.png') !important; */
     background-repeat: no-repeat;
     margin: 0;
     overflow: hidden;
@@ -14643,11 +14643,11 @@ display:      block;
     .HomeTitle2 {
         font-size: 38px;
     }
-    :not(.notClear)>.col-6+.col-6:nth-of-type(2n+3),
-    :not(.notClear)>.col-4+.col-4:nth-of-type(3n+4),
-    :not(.notClear)>.col-3+.col-3:nth-of-type(4n+5),
-    :not(.notClear)>.col-2+.col-2:nth-of-type(6n+7),
-    :not(.notClear)>.col-1+.col-1:nth-of-type(12n+1) {
+     :not(.notClear)>.col-6+.col-6:nth-of-type(2n+3),
+     :not(.notClear)>.col-4+.col-4:nth-of-type(3n+4),
+     :not(.notClear)>.col-3+.col-3:nth-of-type(4n+5),
+     :not(.notClear)>.col-2+.col-2:nth-of-type(6n+7),
+     :not(.notClear)>.col-1+.col-1:nth-of-type(12n+1) {
         clear: both;
     }
     .forMobile {
@@ -14966,11 +14966,11 @@ display:      block;
         width: 100%;
         height: 90px;
     }
-    :not(.notClear)>.col-md-6+.col-md-6:nth-of-type(2n+3),
-    :not(.notClear)>.col-md-4+.col-md-4:nth-of-type(3n+4),
-    :not(.notClear)>.col-md-3+.col-md-3:nth-of-type(4n+5),
-    :not(.notClear)>.col-md-2+.col-md-2:nth-of-type(6n+7),
-    :not(.notClear)>.col-md-1+.col-md-1:nth-of-type(12n+1) {
+     :not(.notClear)>.col-md-6+.col-md-6:nth-of-type(2n+3),
+     :not(.notClear)>.col-md-4+.col-md-4:nth-of-type(3n+4),
+     :not(.notClear)>.col-md-3+.col-md-3:nth-of-type(4n+5),
+     :not(.notClear)>.col-md-2+.col-md-2:nth-of-type(6n+7),
+     :not(.notClear)>.col-md-1+.col-md-1:nth-of-type(12n+1) {
         clear: both;
     }
     .col-md-mr-11 {
@@ -15051,11 +15051,11 @@ display:      block;
 }
 
 @media screen and (max-width: 767px) and (min-width:541px) {
-    :not(.notClear)>.col-sm-6+.col-sm-6:nth-of-type(2n+3),
-    :not(.notClear)>.col-sm-4+.col-sm-4:nth-of-type(3n+4),
-    :not(.notClear)>.col-sm-3+.col-sm-3:nth-of-type(4n+5),
-    :not(.notClear)>.col-sm-2+.col-sm-2:nth-of-type(6n+7),
-    :not(.notClear)>.col-sm-1+.col-sm-1:nth-of-type(12n+1) {
+     :not(.notClear)>.col-sm-6+.col-sm-6:nth-of-type(2n+3),
+     :not(.notClear)>.col-sm-4+.col-sm-4:nth-of-type(3n+4),
+     :not(.notClear)>.col-sm-3+.col-sm-3:nth-of-type(4n+5),
+     :not(.notClear)>.col-sm-2+.col-sm-2:nth-of-type(6n+7),
+     :not(.notClear)>.col-sm-1+.col-sm-1:nth-of-type(12n+1) {
         clear: both;
     }
 }
@@ -15424,11 +15424,11 @@ display:      block;
     .col-xs-1 {
         width: 8.33333333%;
     }
-    :not(.notClear)>.col-xs-6+.col-xs-6:nth-of-type(2n+3),
-    :not(.notClear)>.col-xs-4+.col-xs-4:nth-of-type(3n+4),
-    :not(.notClear)>.col-xs-3+.col-xs-3:nth-of-type(4n+5),
-    :not(.notClear)>.col-xs-2+.col-xs-2:nth-of-type(6n+7),
-    :not(.notClear)>.col-xs-1+.col-xs-1:nth-of-type(12n+1) {
+     :not(.notClear)>.col-xs-6+.col-xs-6:nth-of-type(2n+3),
+     :not(.notClear)>.col-xs-4+.col-xs-4:nth-of-type(3n+4),
+     :not(.notClear)>.col-xs-3+.col-xs-3:nth-of-type(4n+5),
+     :not(.notClear)>.col-xs-2+.col-xs-2:nth-of-type(6n+7),
+     :not(.notClear)>.col-xs-1+.col-xs-1:nth-of-type(12n+1) {
         clear: both;
     }
     .dn-xs {
@@ -15497,11 +15497,11 @@ display:      block;
     .col-xxs-1 {
         width: 8.33333333%;
     }
-    :not(.notClear)>.col-xxs-6+.col-xxs-6:nth-of-type(2n+3),
-    :not(.notClear)>.col-xxs-4+.col-xxs-4:nth-of-type(3n+4),
-    :not(.notClear)>.col-xxs-3+.col-xxs-3:nth-of-type(4n+5),
-    :not(.notClear)>.col-xxs-2+.col-xxs-2:nth-of-type(6n+7),
-    :not(.notClear)>.col-xxs-1+.col-xxs-1:nth-of-type(12n+1) {
+     :not(.notClear)>.col-xxs-6+.col-xxs-6:nth-of-type(2n+3),
+     :not(.notClear)>.col-xxs-4+.col-xxs-4:nth-of-type(3n+4),
+     :not(.notClear)>.col-xxs-3+.col-xxs-3:nth-of-type(4n+5),
+     :not(.notClear)>.col-xxs-2+.col-xxs-2:nth-of-type(6n+7),
+     :not(.notClear)>.col-xxs-1+.col-xxs-1:nth-of-type(12n+1) {
         clear: both;
     }
     .dn-xxs {
@@ -18133,7 +18133,7 @@ ul#instagramMediaRecent li:first-child {
 }
 
 .cargo {
-   /*  background: url(ico3.svg) no-repeat 20px center; */
+    /*  background: url(ico3.svg) no-repeat 20px center; */
     padding-left: 50px!important;
 }
 
@@ -18556,8 +18556,8 @@ a.videobtn {
         font-size: 17px;
     }
     .image-wrapper {
-        height: 0; 
-        padding-bottom:150%;
+        height: 0;
+        padding-bottom: 150%;
     }
 }
 
@@ -18676,10 +18676,10 @@ border:     1px solid #B8B8B8;
         align-items: flex-start;
         padding: 0 10px;
     }
-    :not(.notClear)>.col-6:nth-of-type(2n) .productDetails,
-    :not(.notClear)>.col-4:nth-of-type(3n) .productDetails,
-    :not(.notClear)>.col-3:nth-of-type(4n) .productDetails,
-    :not(.notClear)>.col-2:nth-of-type(6n) .productDetails {
+     :not(.notClear)>.col-6:nth-of-type(2n) .productDetails,
+     :not(.notClear)>.col-4:nth-of-type(3n) .productDetails,
+     :not(.notClear)>.col-3:nth-of-type(4n) .productDetails,
+     :not(.notClear)>.col-2:nth-of-type(6n) .productDetails {
         border-right: 0;
     }
 }
@@ -18816,10 +18816,10 @@ border:     1px solid #B8B8B8;
     .resim-vitrin .col-1 {
         padding-bottom: 10px;
     }
-    :not(.notClear)>.col-md-6:nth-of-type(2n) .productDetails,
-    :not(.notClear)>.col-md-4:nth-of-type(3n) .productDetails,
-    :not(.notClear)>.col-md-3:nth-of-type(4n) .productDetails,
-    :not(.notClear)>.col-md-2:nth-of-type(6n) .productDetails {
+     :not(.notClear)>.col-md-6:nth-of-type(2n) .productDetails,
+     :not(.notClear)>.col-md-4:nth-of-type(3n) .productDetails,
+     :not(.notClear)>.col-md-3:nth-of-type(4n) .productDetails,
+     :not(.notClear)>.col-md-2:nth-of-type(6n) .productDetails {
         border-right: 0;
     }
 }
@@ -19138,10 +19138,10 @@ padding-bottom:   20px;
 font-size:             20px;
 */
     }
-    :not(.notClear)>.col-sm-6:nth-of-type(2n) .productDetails,
-    :not(.notClear)>.col-sm-4:nth-of-type(3n) .productDetails,
-    :not(.notClear)>.col-sm-3:nth-of-type(4n) .productDetails,
-    :not(.notClear)>.col-sm-2:nth-of-type(6n) .productDetails {
+     :not(.notClear)>.col-sm-6:nth-of-type(2n) .productDetails,
+     :not(.notClear)>.col-sm-4:nth-of-type(3n) .productDetails,
+     :not(.notClear)>.col-sm-3:nth-of-type(4n) .productDetails,
+     :not(.notClear)>.col-sm-2:nth-of-type(6n) .productDetails {
         border-right: 0;
     }
     #pager-wrapper {
@@ -19159,7 +19159,7 @@ font-size:             20px;
 
 @media screen and (max-width:540px) {
     .instaTitle {
-       /*  background: url(ins.svg) no-repeat 30.5% center; */
+        /*  background: url(ins.svg) no-repeat 30.5% center; */
     }
     #blog-blog-basligi-buraya-gelecek {
         display: none;
