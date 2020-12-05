@@ -1,24 +1,20 @@
 <template>
-    <div id= "app">
-      <div class="container" >
-         <DropdownMenu></DropdownMenu>
-         <div><Liste></Liste>
-           <LeftMenu></LeftMenu>
-           
-         <ProductButton></ProductButton>
-         </div>
-      </div>
-      
-      
-      
-
-    </div>
+  <div id="app">
+    <DropdownMenu></DropdownMenu>
+    <aside>
+      <LeftMenu></LeftMenu>
+    </aside>
+    <aside>
+      <Liste></Liste>
+      <ProductButton> </ProductButton>
+    </aside>
+    <div class="right"></div>
+  </div>
 </template>
 <script>
-
-import DropdownMenu from '@/components/mainMenu.vue';
+import DropdownMenu from "@/components/mainMenu.vue";
 import LeftMenu from "@/components/leftMenu.vue";
-import ProductButton from "@/components/ProductButtons/ProductButton.vue"
+import ProductButton from "@/components/ProductButtons/ProductButton.vue";
 import Liste from "@/components/list.vue";
 
 export default {
@@ -27,12 +23,32 @@ export default {
     DropdownMenu,
     LeftMenu,
     ProductButton,
-    Liste
-  
-  }
+    Liste,
+  },
 };
 </script>
 
 <style scoped>
+.inner {
+  float: left;
+  width: 100%;
+}
 
+.left {
+  padding-left: 0;
+  box-sizing: border-box;
+  display: block;
+}
+
+.right {
+  max-width: 100%;
+
+  display: block;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 40px;
+  margin-left: -10px;
+  margin-right: -10px;
+  clear: both;
+  display: block;
+}
 </style>

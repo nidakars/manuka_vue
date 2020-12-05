@@ -1,3 +1,5 @@
+--MANUKA 6 COMPONENT--
+
 <template>
   <div class="PersonaClickDiv PersonaClickUrunDetay col-12 fl">
     <div

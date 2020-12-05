@@ -1,43 +1,34 @@
 <template>
-    <div id= "app">
-      <div class="container" >
-         <DropdownMenu></DropdownMenu>
-         <h2>aksesuar</h2>
-         <LeftMenu></LeftMenu>
-      </div>
-
+  <div id="app">
+    <div class="container">
+      <DropdownMenu></DropdownMenu>
     </div>
+  </div>
 </template>
 <script>
-
-import DropdownMenu from '@/components/mainMenu.vue';
-import LeftMenu from "@/components/leftMenu.vue";
+import DropdownMenu from "@/components/uye_giris.vue";
 
 export default {
   name: "app",
   components: {
     DropdownMenu,
-    LeftMenu
-  
-  }
+  },
 };
 </script>
 
-
 <style scoped>
-.class{
-  
+.class {
   padding: 10px;
 }
 #app2 {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
 }
 
-.container{
+.container {
   position: relative;
 }
 </style>

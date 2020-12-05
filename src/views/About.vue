@@ -1,5 +1,16 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <adios></adios>
   </div>
 </template>
+
+<script>
+import adios from "@/components/uye_kayit.vue";
+
+export default {
+  name: "app",
+  components: {
+    adios,
+  },
+};
+</script>

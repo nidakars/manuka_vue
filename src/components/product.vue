@@ -1,3 +1,4 @@
+--MANUKA 1 COMPONENT--
 <template>
   <div id="productDetail" class="row mb">
     <div class="fl col-12" id="pageContent">
@@ -16,7 +17,7 @@
         type="text/css"
         href="https://img.manuka.com.tr/theme/standart/js/gorsel_vitrin/owl/assets/owl.theme.default.min.css"
       />
-      
+
       <!-- #pageContent = Sayfa içinde belirli bir div i popup olarak açmak istediğimizde bu div içerisinden yükleniyor. Hızlı görünüm için gerekli. -->
       <div class="box col-12">
         <div class="row">
@@ -745,6 +746,25 @@
   display: block;
   background: url(/Data/EditorFiles/tema/svg/back.svg) no-repeat center !important;
 }
+.tab-title {
+  border-bottom: 1px solid #868686;
+  padding: 15px 0;
+  float: left;
+  width: 100%;
+  font-size: 14px;
+  cursor: pointer;
+  position: relative;
+  color: #000;
+}
+.tab-title:after {
+  content: "+";
+  float: right;
+  font-size: 18px;
+  line-height: 14px;
+  font-weight: 300;
+  color: #919191;
+  padding-right: 5px;
+}
 .personaclick-recommend .owl-next {
   position: absolute;
   top: 40%;
@@ -824,188 +844,233 @@
     top: 35%;
   }
 }
-#productName
-{
-line-height:   28px;
-font-size: 26px
-;color:   #000;
-margin: 0 0 15px 0
-;font-weight:   600;
+#productName {
+  line-height: 28px;
+  font-size: 26px;
+  color: #000;
+  margin: 0 0 15px 0;
+  font-weight: 600;
 }
 .row {
-    margin-left: -10px;
-    margin-right: -10px;
-    clear: both;
-    display: block;
+  margin-left: -10px;
+  margin-right: -10px;
+  clear: both;
+  display: block;
 }
 .subCode {
-    color: #B3B3B3;
-    font-size: 17px;
+  color: #b3b3b3;
+  font-size: 17px;
 }
 .box.double {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-.box.double, .col.double {
-    padding-left: 20px;
-    padding-right: 20px;
-}
-.mainPrices {
-    border-bottom: 1px solid #000;
+.box.double,
+.col.double {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .mainPrices {
-    position: relative;
+  border-bottom: 1px solid #000;
 }
-.row.double, .col.double > .row, .box.double > .row {
-    margin-left: -20px;
-    margin-right: -20px;
+.mainPrices {
+  position: relative;
 }
-.priceLine, .variantLine, .noteLine {
-    line-height: 23px;
-    font-size: 13px;
+.row.double,
+.col.double > .row,
+.box.double > .row {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.priceLine,
+.variantLine,
+.noteLine {
+  line-height: 23px;
+  font-size: 13px;
 }
 
 .row {
-    margin-left: -10px;
-    margin-right: -10px;
-    clear: both;
-    display: block;
+  margin-left: -10px;
+  margin-right: -10px;
+  clear: both;
+  display: block;
 }
 .discountPrice {
-    line-height: 22px;
-    font-size: 22px;
+  line-height: 22px;
+  font-size: 22px;
 }
 
 .discountPrice {
-    color: #000000;
-    font-weight: 600;
+  color: #000000;
+  font-weight: 600;
 }
-.fl, .btn.fl {
-    float: left;
+.fl,
+.btn.fl {
+  float: left;
 }
 .variantOverlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: rgba(0,0,0,.7);
-    z-index: 999;
-    display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 999;
+  display: none;
 }
 .variantWrapper {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .variantWrapper {
-    position: relative;
+  position: relative;
 }
 .tooltipWrapper {
-    position: relative;
+  position: relative;
 }
-.priceLine, .variantLine, .noteLine {
-    line-height: 23px;
-    font-size: 13px;
+.priceLine,
+.variantLine,
+.noteLine {
+  line-height: 23px;
+  font-size: 13px;
 }
 .variantBox.subTwo a p {
-    min-width: 38px;
-    float: right;
-    width: initial;
+  min-width: 38px;
+  float: right;
+  width: initial;
 }
-.variantBox a.selected p, .variantBox a:hover p {
-    color: #fff;
+.variantBox a {
+  min-width: 46px;
+  height: 46px;
+  margin-right: 10px;
+  padding: 0 2px !important;
+  border: 2px solid #000;
+  position: relative;
 }
-.variantBox a p {
-    width: 100%;
-    height: 100%;
-    line-height: 42px;
-    text-align: center;
-    font-size: 16px;
-    color: #000;
-    padding-bottom: 0;
-    font-weight: 500;
+.ease,
+.btn,
+.form-control,
+a,
+input,
+select,
+textarea,
+button {
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  font-family: "Poppins", sans-serif !important;
 }
 #cart-wrapper {
-    border-bottom: 1px solid #000;
-    padding-bottom: 40px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 40px;
+}
+#productRight #addCartBtn {
+  background: #000000;
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 20px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.variantBox a.selected p,
+.variantBox a:hover p {
+  color: #fff;
+}
+.variantBox a p {
+  width: 100%;
+  height: 100%;
+  line-height: 42px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  padding-bottom: 0;
+  font-weight: 500;
+}
+#cart-wrapper {
+  border-bottom: 1px solid #000;
+  padding-bottom: 40px;
 }
 #cart-wrapper .productType {
-    display: none;
+  display: none;
 }
-.p-left, .box.p-left, .col.p-left, .btn.p-left {
-    padding-left: 0;
-}
-.productType {
-    font-size: 15px;
-    color: #1a1a17;
-    position: relative;
-    margin-bottom: 20px;
+.p-left,
+.box.p-left,
+.col.p-left,
+.btn.p-left {
+  padding-left: 0;
 }
 .productType {
-    line-height: 30px;
+  font-size: 15px;
+  color: #1a1a17;
+  position: relative;
+  margin-bottom: 20px;
 }
-.productType, .qtyBtns input {
-    font-size: 12px;
-    text-transform: uppercase;
+.productType {
+  line-height: 30px;
+}
+.productType,
+.qtyBtns input {
+  font-size: 12px;
+  text-transform: uppercase;
 }
 .DetayButons {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 .DetaySosyalMedya {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 #cart-wrapper .qtyBox {
-    display: none;
+  display: none;
 }
 
-.productName
-{
-font-size:          20px;
-font-weight:600;
+.productName {
+  font-size: 20px;
+  font-weight: 600;
 }
 
-.productBrandImg
-{
-margin-bottom:          10px;
+.productBrandImg {
+  margin-bottom: 10px;
 }
-#productRight #addCartBtn
-{
-background:           #000000;
-color: #fff
-;letter-spacing:           1px;
-font-size: 20px
-;height:           55px;
-line-height: 55px
-;text-align:   center;
-text-transform: uppercase
-;font-weight:   700;
+#productRight #addCartBtn {
+  background: #000000;
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 20px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
 }
-#productRight
-{
-margin-top:   30px;
+#productRight {
+  margin-top: 30px;
 }
-#productRight .order-note textarea
-{
-padding-top:          20px;
+#productRight .order-note textarea {
+  padding-top: 20px;
 }
 
 #productRight {
-    right: 0;
-    top: 10px;
-    -moz-animation: top .5s ease;
-    transition: top .5s ease;
-    -wbkit-transition: top .5s ease;
-    -webkit-transition-duration: 0.2s;
-    -moz-transition-duration: 0.2s;
-    -ms-transition-duration: 0.2s;
-    -o-transition-duration: 0.2s;
-    transition-duration: 0.2s;
-    position: sticky;
-    position: -webkit-sticky;
-    background: #fff;
-    z-index: 22;
-    height: 100%;
+  right: 0;
+  top: 10px;
+  -moz-animation: top 0.5s ease;
+  transition: top 0.5s ease;
+  -wbkit-transition: top 0.5s ease;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -ms-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  position: sticky;
+  position: -webkit-sticky;
+  background: #fff;
+  z-index: 22;
+  height: 100%;
 }
 
 @media only screen and (max-width: 320px) {

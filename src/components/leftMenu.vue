@@ -1,3 +1,4 @@
+--MANUKA 9 COMPONENT--
 <template>
   <aside class="col col-2 col-md-3 col-sm-12 p-left" id="leftColumn">
     <!--cache--><link
