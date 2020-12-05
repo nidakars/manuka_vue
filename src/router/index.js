@@ -44,10 +44,10 @@ const routes = [{
             import ( /* webpackChunkName: "giyim" */ "../views/Giyim")
     },
     {
-        path: "/canta",
-        name: "canta",
+        path: "/sepet",
+        name: "sepet",
         component: () =>
-            import ( /* webpackChunkName: "canta" */ "../views/Çanta")
+            import ( /* webpackChunkName: "canta" */ "../views/Sepet")
     },
     {
         path: "/giris",
