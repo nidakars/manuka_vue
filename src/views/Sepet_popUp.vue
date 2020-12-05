@@ -1,21 +1,21 @@
 <template>
   <div id="app">
     <div class="container">
-      <DropdownMenu></DropdownMenu>
-      <LeftMenu></LeftMenu>
+      <SepetPop></SepetPop>
+      <Product></Product>
     </div>
     <div><h2>ayakkabı</h2></div>
   </div>
 </template>
 <script>
-import DropdownMenu from "@/components/sepet_popup.vue";
-import LeftMenu from "@/components/leftMenu.vue";
+import SepetPop from "@/components/sepet_popup.vue";
+import Product from "@/components/product.vue";
 
 export default {
   name: "app",
   components: {
-    DropdownMenu,
-    LeftMenu,
+    SepetPop,
+    Product,
   },
 };
 </script>

@@ -1,3 +1,4 @@
+--MANUKA 4 COMPONENT--
 <template>
   <div
     class="pWrapper"
