@@ -1,3 +1,4 @@
+--MANUKA 7 COMPONENT--
 <template>
   <div
     style="width:500px;margin:0 auto;;z-index:9981;"
@@ -104,7 +105,6 @@
             <div class="row"></div>
           </div>
         </div>
-        
       </div>
     </div>
   </div>

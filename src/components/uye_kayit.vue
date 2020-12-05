@@ -1,3 +1,4 @@
+--MANUKA 8 COMPONENT--
 <template>
   <div class="col col-12" id="page-login">
     <div class="row mb">
